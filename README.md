@@ -1,2 +1,2 @@
 # PHP-and-MySQL
-Kleines Projekt
+Kleines Projekt (Kochrezept)
